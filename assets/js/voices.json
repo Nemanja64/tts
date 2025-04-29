@@ -211,7 +211,7 @@
         ]
     },
     "Streamlabs": {
-        "charLimit": 550,
+        "charLimit": 5000,
         "countBytes": true,
         "voices": [
             {"vid": "Brian", "name": "Brian", "flag": "GB", "lang": "English", "accent": "British", "gender": "M"},
@@ -229,6 +229,8 @@
             {"vid": "Kimberly", "name": "Kimberly", "flag": "US", "lang": "English", "accent": "American", "gender": "F"},
             {"vid": "Salli", "name": "Salli", "flag": "US", "lang": "English", "accent": "American", "gender": "F"},
             {"vid": "Raveena", "name": "Raveena", "flag": "IN", "lang": "English", "accent": "Indian", "gender": "F"},
+            {"vid": "Eric",   "name":  "Eric" ,  "flag" "US" ,  "lang": "English", "accent": "American", "gender": "M"},
+            {vid":  "Jennifer", "name": "Jennifer", "flag" "US", "lang": "English", "accent": "American", "gender": "F"},
             {"vid": "Zeina", "name": "Zeina", "flag": "ARAB", "lang": "Arabic", "accent": "", "gender": "F"},
             {"vid": "Zhiyu", "name": "Zhiyu", "flag": "CN", "lang": "Chinese", "accent": "Mandarin", "gender": "F"},
             {"vid": "Mads", "name": "Mads", "flag": "DK", "lang": "Danish", "accent": "", "gender": "M"},
